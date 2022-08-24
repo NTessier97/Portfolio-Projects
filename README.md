@@ -11,7 +11,7 @@ My first foray into regression analysis. In this project I used data from a larg
 
 ## Baseball SQL Data Exploration Project
 
-A match made in heaven. This project combines my affinity for baseball with my love for all things data. In this project I put my SQL skills to the test, recreating several of the statistics, facts, and figures (along with a few creations of my own) from the Baseball Maniac’s Almanac, a 428-page baseball compendium. I start off easy with some simple JOINS and SELECT statements and gradually get more complex as I go along, adding in more complicated commands such as RANK and PARTITION BY. You’re not going to want to miss my “magnum opus” where I combine all my SQL skills to look at players with the most career homeruns to never lead the league. [LINK](https://github.com/NTessier97/Baseball-SQL-Project/blob/61e03cfa2421e91dfb1c673b93f5284d6fc34489/Baseball%20SQL%20Project.sql)
+A match made in heaven. This project combines my affinity for baseball with my love for all things data. In this project I put my SQL skills to the test, recreating several of the statistics, facts, and figures (along with a few creations of my own) from the Baseball Maniac’s Almanac, a 428-page baseball compendium. I start off easy with some simple JOINS and SELECT statements and gradually get more complex as I go along, adding in more complicated commands such as RANK and PARTITION BY. You’re not going to want to miss my “magnum opus” where I combine all my SQL skills to look at players with the most career homeruns to never lead the league. [LINK](https://github.com/NTessier97/Portfolio-Projects/blob/98e32bfe1a34c1872fcd19b1b8a4daf3efe3d2eb/Baseball%20SQL%20Project.sql)
 
 ## Revenue Growth Dashboard
 
