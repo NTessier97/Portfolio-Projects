@@ -7,7 +7,7 @@ ________________________________________
 
 ## Regression Analysis Empirical Project
 
-My first foray into regression analysis. In this project I used data from a large Canadian university to investigate the factors that lead to students being placed on academic probation and how that placement affects both their long- and short-term academic performance. Readers beware! The write up on this one is a long one but well worth it in my opinion. [LINK](https://github.com/NTessier97/Portfolio-Projects/blob/18ad2d857fa85c123740d0191feecea3984ee7e3/Empirical%20Project%20Final%20Draft.pdf)
+My first foray into regression analysis. In this project I used data from a large Canadian university to investigate the factors that lead to students being placed on academic probation and how that placement affects both their long- and short-term academic performance. Readers beware! The write up on this one is a long one, but well worth it in my opinion. [LINK](https://github.com/NTessier97/Portfolio-Projects/blob/18ad2d857fa85c123740d0191feecea3984ee7e3/Empirical%20Project%20Final%20Draft.pdf)
 
 ## Baseball SQL Data Exploration Project
 
