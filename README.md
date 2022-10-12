@@ -1,6 +1,6 @@
 # About Me
 ________________________________________
-Hello! My name is Nick. Welcome to my portfolio. I am a recent graduate from the University of California, Davis (2020) with a degree in Economics and minor in Technology Management. It is my goal to one day break into the field of data analytics. Since graduating I have been working on upskilling, learning skills such as Excel, SQL, and Tableau. I’ve made this repository to showcase my skills and document my progress. Come join me on my journey! 
+Hello! My name is Nick. Welcome to my portfolio. I am a recent graduate from the University of California, Davis (2020) with a degree in Economics and minor in Technology Management and it is my goal to one day break into the field of data analytics. Since graduating I have been working on upskilling, learning skills such as Excel, SQL, and Tableau. I’ve made this repository to showcase my skills and document my progress. Come join me on my journey! 
 
 # Projects
 ________________________________________
